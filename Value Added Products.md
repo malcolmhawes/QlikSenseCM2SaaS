@@ -20,3 +20,6 @@ Qlik Insight Bot :
 - Qlik Insight Bot offers a fast and easy way to ask questions and discover insights using natural language. It’s available right in Qlik Sense and through popular tools such as Slack, Skype, and Microsoft Teams. With each question, it instantly surfaces relevant charts and insights, including key drivers, comparisons, predictions and more. And its self-learning AI makes the system progressively smarter.
 
 Information note - These are on-premise tools for Qlik Sense Enterprise on Windows and/or QlikView on Windows.
+
+
+The Client managed capabilities are delivered via stand-alone value add products that requires full-stack implementation. In Qlik Cloud these capabilities are integrated experiences that are supporting various customer problems - we aren't trying to directly replicate the CM functionality![image](https://user-images.githubusercontent.com/28857432/167666758-ee1379f5-353f-4237-9132-deefa21a47e9.png)
