@@ -107,6 +107,9 @@ ___
 
 Qlik Reporting
 
+1. [Reporting from Qlik Cloud](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Reporting/SaaS-reporting-intro.htm)
+2. [Self Service Reports with Subscription](https://youtu.be/GydNMmIK4cs) (3:30 min)
+
 Qlik Alerting
 
 Qlik Insight Advisor
