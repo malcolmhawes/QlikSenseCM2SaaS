@@ -16,7 +16,7 @@ The Client managed tools (CM ) are delivered via stand-alone "value add" product
 
 The following describes the functionality in both CM and SaaS to help guide your understanding between the two.
 
-Client Managed tools that are relevant here include :
+**Client Managed tools that are relevant here include :
 
 Qlik NPrinting :
 
@@ -38,7 +38,7 @@ In Qlik Cloud SaaS (SaaS) these capabilities are integrated experiences that are
 
 Essentially, functionality is different from one to the other so it is important that you consult your OEM Presales specialist team to understand these differences and implications in more depth.
 
-Qlik Cloud SaaS Capabilities that are relivant here include :
+**Qlik Cloud SaaS Capabilities that are relivant here include :
 
 Reporting from Qlik Cloud :
 
