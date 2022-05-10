@@ -100,6 +100,18 @@ Recommended associations:
 - Insight Advisor can recommend associations between your data tables in the Associations view in Data manager. The Recommended associations panel lets you view and apply these recommendations.
 
 
+&nbsp;
+___
+## Key Resources for Qlik Cloud SaaS Capabilities described above
+
+
+Qlik Reporting
+
+Qlik Alerting
+
+Qlik Insight Advisor
+
+
 
 
 
