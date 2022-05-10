@@ -12,7 +12,7 @@ Essentially, functionality is different from one to the other so it is important
 ___
 ## Value Added Products and Similar Qlik Cloud SaaS Capabilities
 
-The differences between relevant Client Managed tools (CM) and Similar Qlik Cloud SaaS (SaaS) capabilities are subtle but important to describe - however this is not a Gap Analysis excercise.
+The differences between relevant Client Managed tools (CM) and Similar Qlik Cloud SaaS capabilities (SaaS) are subtle but important to describe - however this is not a Gap Analysis excercise.
 
 The Client managed tools are delivered via stand-alone "value add" products that requires a full-stack implementation. 
 
