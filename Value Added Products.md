@@ -8,9 +8,17 @@ There are a number of "Add On" capabilities with Client Managed products such as
 
 &nbsp;
 ___
-## Value Added Products and similar Qlik Cloud SaaS Capabilities
+## Value Added Products and Similar Qlik Cloud SaaS Capabilities
 
-The key differences between Web Ticketing and JWT authentication type are subtle but important to mention:
+The differences between relivant Client Managed tools and Similar Qlik Cloud SaaS capabilities are subtle but important to describe - howver this is not a Gap Analysis excercise.
+
+The Client managed tools (CM ) are delivered via stand-alone "value add" products that requires full-stack implementation. 
+
+In Qlik Cloud SaaS (SaaS) these capabilities are integrated experiences that are supporting various customer use cases - Qlik are not trying to directly replicate the Client Managed functionality into Qlik Cloud SaaS in the same way.
+
+Essentially functionality is different from one to the other so it is important that you consult your OEM Presales specialist to understand these difference and implications in more depth.
+
+However the following describes the functionality in both CM and SaaS to help guide your understanding.
 
 Client Managed tools that are relivant here include :
 
