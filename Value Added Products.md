@@ -109,12 +109,20 @@ Qlik Reporting
 
 1. [Reporting from Qlik Cloud](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Reporting/SaaS-reporting-intro.htm)
 2. [Self Service Reports with Subscription](https://youtu.be/GydNMmIK4cs) (3:30 min)
+3. [Automated Reporting with Qlik Reporting Services] (https://youtu.be/tXyuT_1S23o) (22:12 min)
 
 Qlik Alerting
 
+1. [Monitoring Changes with Alerts](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Alerting/monitoring-changes-with-alerts.htm)
+2. [Setting up Data Alerts](https://youtu.be/AbFTcpzvsfc) (1:15 min)
+3. [Monitoring Changes with Alerts] (https://youtu.be/4nd_02efDCg) (2:23 min)
+
+
 Qlik Insight Advisor
 
-
+1. [Creating Viz with Insight Advisor](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Insights/insight-advisor-create-visualizations.htm)
+2. [Insight Advisor Chat and Business Logic](https://youtu.be/PO7GwxfdfFQ) (1:34 min)
+3. [Insight Advisor Chat] (https://youtu.be/1ewjXxZygBE) (5:42 min)
 
 
 
