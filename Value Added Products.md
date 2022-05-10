@@ -3,24 +3,20 @@
 ## Introduction
 This guide is designed to help OEM partners with a Qlik Sense Client-managed deployments that are thinking or willing to move to SaaS.
 
-There are a number of "Add On" capabilities with Client Managed products such as alerting reporting and chat bots that we refer to as Value Added Products in the Client  Managed product set. These tools and capabilities haven't been converted directly "as is" to Qlik Cloud and this will not be a Gap Analysis between Client Managed and SaaS but rather a guide to describe these tools in Client managed then describe aspects of QLik Cloud which are available currently to achieve similar capabilities. Qlik is building new features in Qlik Cloud continuously, to provide similar and in many cases additional capabilities in these areas.
+There are a number of "Add On" capabilities with Client Managed products such as alerting, reporting and chat bots that Qlik refer to as "Value Added Products" in the Client  Managed product set. These tools and capabilities haven't been converted directly "as is" to Qlik Cloud SaaS and this will not be a "Gap Analysis" between Client Managed and SaaS but rather a guide to describe these tools in Client managed, then describe aspects of Qlik Cloud SaaS which are available currently to achieve similar capabilities. Qlik is building new features in Qlik Cloud continuously, to provide similar and in many cases additional capabilities in these areas.
 
 
 &nbsp;
 ___
 ## Value Added Products and Similar Qlik Cloud SaaS Capabilities
 
-The differences between relivant Client Managed tools and Similar Qlik Cloud SaaS capabilities are subtle but important to describe - however this is not a Gap Analysis excercise.
+The differences between relevant Client Managed tools and Similar Qlik Cloud SaaS capabilities are subtle but important to describe - however this is not a Gap Analysis excercise.
 
-The Client managed tools (CM ) are delivered via stand-alone "value add" products that requires full-stack implementation. 
+The Client managed tools (CM ) are delivered via stand-alone "value add" products that requires a full-stack implementation. 
 
-In Qlik Cloud SaaS (SaaS) these capabilities are integrated experiences that are supporting various customer use cases - Qlik are not trying to directly replicate the Client Managed functionality into Qlik Cloud SaaS in the same way.
+The following describes the functionality in both CM and SaaS to help guide your understanding between the two.
 
-Essentially functionality is different from one to the other so it is important that you consult your OEM Presales specialist to understand these difference and implications in more depth.
-
-However the following describes the functionality in both CM and SaaS to help guide your understanding.
-
-Client Managed tools that are relivant here include :
+Client Managed tools that are relevant here include :
 
 Qlik NPrinting :
 
@@ -34,14 +30,13 @@ Qlik Insight Bot :
 
 - Qlik Insight Bot offers a fast and easy way to ask questions and discover insights using natural language. It’s available right in Qlik Sense and through popular tools such as Slack, Skype, and Microsoft Teams. With each question, it instantly surfaces relevant charts and insights, including key drivers, comparisons, predictions and more. And its self-learning AI makes the system progressively smarter.
 
-- Insight Advisor Chat is Qlik's next-generation, fully conversational analytics experience native to Qlik Sense. It is driven by our cognitive engine and uses natural-language processing and generation (NLP and NLG) to understand user intent and generate both narrative and visual responses to questions. Insight Advisor Chat works across Qlik Sense apps and allows users to transition directly to in-app, search-based visual analysis for deeper exploration. It is now offered as a licensed, value-added product for Qlik Sense Enterprise on Windows, replacing Qlik Insight Bot. Insight Advisor Chat supports integrations with Microsoft Teams and Slack.
+- Insight Advisor Chat is Qlik's next-generation of Qlik Insight Bot, fully conversational analytics experience native to Qlik Sense. It is driven by our cognitive engine and uses natural-language processing and generation (NLP and NLG) to understand user intent and generate both narrative and visual responses to questions. Insight Advisor Chat works across Qlik Sense apps and allows users to transition directly to in-app, search-based visual analysis for deeper exploration. It is now offered as a licensed, value-added product for Qlik Sense Enterprise on Windows, replacing Qlik Insight Bot. Insight Advisor Chat supports integrations with Microsoft Teams and Slack.
 
-Information note - These are on-premise tools for Qlik Sense Enterprise on Windows and/or QlikView on Windows.
+Information note - These above are on-premise tools for Qlik Sense Enterprise on Windows and/or QlikView on Windows.
 
+In Qlik Cloud SaaS (SaaS) these capabilities are integrated experiences that are supporting various customer use cases - Qlik are not trying to directly replicate the Client Managed functionality into Qlik Cloud SaaS.
 
-These Client managed capabilities are delivered via stand-alone "value add" products that requires full-stack implementation. 
-
-However in Qlik Cloud, these capabilities are integrated experiences that are supporting a multitude of customer use cases - Qliks aim is not to directly replicate all Client Managed functionality in the same way necesarily.
+Essentially, functionality is different from one to the other so it is important that you consult your OEM Presales specialist team to understand these differences and implications in more depth.
 
 Qlik Cloud SaaS Capabilities that are relivant here include :
 
