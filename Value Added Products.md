@@ -10,6 +10,10 @@ Client Managed tools that are relivant here include :
 Qlik NPrinting
 Qlik NPrinting is a reporting platform that lets you create reports using your QlikView and Qlik Sense data, and then distribute them automatically in a range of standard formats.
 
-Information noteQlik NPrinting is an on-premise reporting tool for Qlik Sense Enterprise on Windows and QlikView on Windows.
+Qlik Alerting
+Qlik Alerting provides enterprise alerting for your Qlik Sense deployment. It offers self-service capabilities for users to create their own alerts on the data they have access to in Qlik Sense. It also provides the capability for users, often power users, to create and manage alerts for others with managed shared and broadcast alerts.
 
+Qlik Insight Bot 
+Qlik Insight Bot offers a fast and easy way to ask questions and discover insights using natural language. It’s available right in Qlik Sense and through popular tools such as Slack, Skype, and Microsoft Teams. With each question, it instantly surfaces relevant charts and insights, including key drivers, comparisons, predictions and more. And its self-learning AI makes the system progressively smarter.
 
+Information note - These are on-premise tools for Qlik Sense Enterprise on Windows and/or QlikView on Windows.
