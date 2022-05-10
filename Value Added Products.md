@@ -22,4 +22,4 @@ Qlik Insight Bot :
 Information note - These are on-premise tools for Qlik Sense Enterprise on Windows and/or QlikView on Windows.
 
 
-The Client managed capabilities are delivered via stand-alone value add products that requires full-stack implementation. In Qlik Cloud these capabilities are integrated experiences that are supporting various customer problems - we aren't trying to directly replicate the CM functionality![image](https://user-images.githubusercontent.com/28857432/167666758-ee1379f5-353f-4237-9132-deefa21a47e9.png)
+The Client managed capabilities are delivered via stand-alone value add products that requires full-stack implementation. In Qlik Cloud these capabilities are integrated experiences that are supporting various customer problems - we aren't trying to directly replicate the CM functionality
