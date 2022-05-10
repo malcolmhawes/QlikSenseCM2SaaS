@@ -40,7 +40,7 @@ In Qlik Cloud SaaS (SaaS) these capabilities are integrated experiences that are
 
 
 
-**Qlik Cloud SaaS Capabilities that are relivant here include** :
+**Qlik Cloud SaaS Capabilities that are relevant here include** :
 
 Reporting from Qlik Cloud :
 
