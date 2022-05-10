@@ -7,5 +7,9 @@ There are a number of "Add On" capabilities with Client Managed products such as
 
 Client Managed tools that are relivant here include :
 
-Authentication – `Who is the user?​`  
-Authorization – `What can this user do or see in Qlik Sense?​`
+Qlik NPrinting
+Qlik NPrinting is a reporting platform that lets you create reports using your QlikView and Qlik Sense data, and then distribute them automatically in a range of standard formats.
+
+Information noteQlik NPrinting is an on-premise reporting tool for Qlik Sense Enterprise on Windows and QlikView on Windows.
+
+
