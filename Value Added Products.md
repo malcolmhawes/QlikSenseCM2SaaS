@@ -34,6 +34,8 @@ Qlik Insight Bot :
 
 - Qlik Insight Bot offers a fast and easy way to ask questions and discover insights using natural language. It’s available right in Qlik Sense and through popular tools such as Slack, Skype, and Microsoft Teams. With each question, it instantly surfaces relevant charts and insights, including key drivers, comparisons, predictions and more. And its self-learning AI makes the system progressively smarter.
 
+Insight Advisor Chat is Qlik's next-generation, fully conversational analytics experience native to Qlik Sense. It is driven by our cognitive engine and uses natural-language processing and generation (NLP and NLG) to understand user intent and generate both narrative and visual responses to questions. Insight Advisor Chat works across Qlik Sense apps and allows users to transition directly to in-app, search-based visual analysis for deeper exploration. It is now offered as a licensed, value-added product for Qlik Sense Enterprise on Windows, replacing Qlik Insight Bot. Insight Advisor Chat supports integrations with Microsoft Teams and Slack.
+
 Information note - These are on-premise tools for Qlik Sense Enterprise on Windows and/or QlikView on Windows.
 
 
@@ -64,6 +66,41 @@ Monitoring data with alerts :
 Scheduling reports with subscriptions :
 
 - Subscription reports let you schedule recurring emails containing a PDF of your preferred sheets or chart. You can set your desired filters and have a PDF report with the newest data delivered to your inbox at a scheduled time. For example, you could receive overnight order information in an email every morning. You can edit subscriptions you own at any time.
+
+
+Exploring apps with conversational analytics :
+
+- Insight Advisor Chat is a chat-based interface for conversational analytics. Insight Advisor Chat lets you search for insights in any app you can access.
+
+In Qlik Cloud SaaS be aware that Insight Advisor has many aspects that inlcuded :
+
+Insight Advisor :
+
+- Insight Advisor comprises the following Qlik Sense features:
+
+Insight Advisor Search: 
+
+- Insight Advisor Search is available from Sheet in the Analyze tab of an app. Insight Advisor Search creates visualizations based on natural language searches or selections of fields and master items. Insight Advisor Search can also generate charts of potential interest.
+
+Insight Advisor Analysis Types: 
+
+- Insight Advisor Analysis Types is available from Sheet in the Analyze tab of an app. Insight Advisor Analysis Types allows you to select an analysis type and the data to include. Insight Advisor then generates charts based on your parameters.
+
+Insight Advisor Chat: 
+
+- Insight Advisor Chat is a chat-based interface for conversational analytics. Insight Advisor Chat enables you to make natural language searches from the hub to apps to which you have access. Insight Advisor Chat then returns relevant visualizations.
+
+Associative insights: 
+
+- Associative insights helps you uncover blind spots and reveal relationships you may have missed. Associative insights compares the contributions of your selections and excluded values against your measures.
+
+Chart suggestions: 
+
+- Chart suggestions enable you to select data fields when editing a sheet and let Qlik Sense choose the dimensions, measures, and visualization types. The suggested chart adjusts itself based on your changes. You can customize a suggested visualization with a focused set of properties.
+
+Recommended associations: 
+
+- Insight Advisor can recommend associations between your data tables in the Associations view in Data manager. The Recommended associations panel lets you view and apply these recommendations.
 
 
 
