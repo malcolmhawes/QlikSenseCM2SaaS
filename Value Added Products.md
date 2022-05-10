@@ -26,6 +26,30 @@ These Client managed capabilities are delivered via stand-alone "value add" prod
 
 However in Qlik Cloud, these capabilities are integrated experiences that are supporting a multitude of customer use cases - Qliks aim is not to directly replicate all Client Managed functionality in the same way necesarily.
 
+Qlik Cloud SaaS Capabilities that are relivant here include :
+
+Reporting from Qlik Cloud :
+
+- Qlik reporting tools let you summarize and share insights with other users using exported documents.
+
+Automated reporting using the Qlik Reporting Service :
+
+- You can create automated multi-page PDF reports based on a Qlik Sense app using the Qlik Reporting Service and Qlik Application Automation. Recipients can receive complex, scheduled reports, even if they do not have access to Qlik Sense. Get started with a report template, or create a fully custom automation.
+
+Creating a Qlik Reporting Service report :
+
+- The Qlik Reporting Service connector blocks let you quickly and easily build customized, multi-page reports based on app sheets. This topic shows you how to use each of the reporting blocks to build reports. By the end of this topic, you'll be able to generate single-page reports based on an app sheet, generate multi-page reports, and generate customized reports with different selections applied to different sheets.
+
+You should be familiar with Qlik Application Automation to create a Qlik Reporting Service report.
+
+Monitoring data with alerts :
+
+- Detect outliers and anomalies in your data quickly with alerts, without the need to open the app. You define conditions based on measures or dimensions of the data that you want to monitor. When the conditions are met, a notification with a preview of the data is sent to you.
+
+Scheduling reports with subscriptions :
+
+- Subscription reports let you schedule recurring emails containing a PDF of your preferred sheets or chart. You can set your desired filters and have a PDF report with the newest data delivered to your inbox at a scheduled time. For example, you could receive overnight order information in an email every morning. You can edit subscriptions you own at any time.
+
 
 
 
