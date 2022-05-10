@@ -10,7 +10,7 @@ There are a number of "Add On" capabilities with Client Managed products such as
 ___
 ## Value Added Products and Similar Qlik Cloud SaaS Capabilities
 
-The differences between relivant Client Managed tools and Similar Qlik Cloud SaaS capabilities are subtle but important to describe - howver this is not a Gap Analysis excercise.
+The differences between relivant Client Managed tools and Similar Qlik Cloud SaaS capabilities are subtle but important to describe - however this is not a Gap Analysis excercise.
 
 The Client managed tools (CM ) are delivered via stand-alone "value add" products that requires full-stack implementation. 
 
