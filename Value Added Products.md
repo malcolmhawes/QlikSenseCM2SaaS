@@ -5,6 +5,10 @@ This guide is designed to help OEM partners with a Qlik Sense Client-managed dep
 
 There are a number of "Add On" capabilities with Client Managed products such as alerting, reporting and chat bots that Qlik refer to as "Value Added Products" in the Client  Managed product set. These tools and capabilities haven't been converted directly "as is" to Qlik Cloud SaaS and this will not be a "Gap Analysis" between Client Managed and SaaS but rather a guide to describe these tools in Client managed, then describe aspects of Qlik Cloud SaaS which are available currently to achieve similar capabilities. Qlik is building new features in Qlik Cloud continuously, to provide similar, and in many cases additional, capabilities in these areas.
 
+
+![image](https://user-images.githubusercontent.com/28857432/168842800-6321b5c4-0401-44dd-a570-430c1debe185.png)
+
+
 Essentially, functionality is different from one to the other so it is important that you consult your OEM Presales specialist team to understand these differences and implications in more depth.
 
 
@@ -22,15 +26,15 @@ The following describes the functionality in both CM and SaaS to help guide your
 
 Qlik NPrinting :
 
-- Qlik NPrinting is a reporting platform that lets you create reports using your QlikView and Qlik Sense data, and then distribute them automatically in a range of standard formats.
+- [Qlik NPrinting](https://help.qlik.com/en-US/nprinting/May2022/Content/NPrinting/Introduction/Introduction.htm) is a reporting platform that lets you create reports using your QlikView and Qlik Sense data, and then distribute them automatically in a range of standard formats.
 
 Qlik Alerting :
 
-- Qlik Alerting provides enterprise alerting for your Qlik Sense deployment. It offers self-service capabilities for users to create their own alerts on the data they have access to in Qlik Sense. It also provides the capability for users, often power users, to create and manage alerts for others with managed shared and broadcast alerts.
+- [Qlik Alerting](https://help.qlik.com/en-US/alerting/October2021/Content/QlikAlerting/Home.htm) provides enterprise alerting for your Qlik Sense deployment. It offers self-service capabilities for users to create their own alerts on the data they have access to in Qlik Sense. It also provides the capability for users, often power users, to create and manage alerts for others with managed shared and broadcast alerts.
 
 Qlik Insight Bot :
 
-- Qlik Insight Bot offers a fast and easy way to ask questions and discover insights using natural language. It’s available right in Qlik Sense and through popular tools such as Slack, Skype, and Microsoft Teams. With each question, it instantly surfaces relevant charts and insights, including key drivers, comparisons, predictions and more. And its self-learning AI makes the system progressively smarter.
+- [Qlik Insight Bot](https://help.qlik.com/en-US/insight-bot/Content/QlikInsightBot/Home.htm) offers a fast and easy way to ask questions and discover insights using natural language. It’s available right in Qlik Sense and through popular tools such as Slack, Skype, and Microsoft Teams. With each question, it instantly surfaces relevant charts and insights, including key drivers, comparisons, predictions and more. And its self-learning AI makes the system progressively smarter.
 
 - Insight Advisor Chat is Qlik's next-generation of Qlik Insight Bot, fully conversational analytics experience native to Qlik Sense. It is driven by our cognitive engine and uses natural-language processing and generation (NLP and NLG) to understand user intent and generate both narrative and visual responses to questions. Insight Advisor Chat works across Qlik Sense apps and allows users to transition directly to in-app, search-based visual analysis for deeper exploration. It is now offered as a licensed, value-added product for Qlik Sense Enterprise on Windows, replacing Qlik Insight Bot. Insight Advisor Chat supports integrations with Microsoft Teams and Slack.
 
@@ -42,30 +46,30 @@ In Qlik Cloud SaaS (SaaS) these capabilities are integrated experiences that are
 
 **Qlik Cloud SaaS Capabilities that are relevant here include** :
 
-Reporting from Qlik Cloud :
+[Reporting from Qlik Cloud](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Reporting/SaaS-reporting-intro.htm) :
 
 - Qlik reporting tools let you summarize and share insights with other users using exported documents.
 
-Automated reporting using the Qlik Reporting Service :
+[Automated reporting using the Qlik Reporting Service](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Reporting/Reports-with-application-automations.htm) :
 
 - You can create automated multi-page PDF reports based on a Qlik Sense app using the Qlik Reporting Service and Qlik Application Automation. Recipients can receive complex, scheduled reports, even if they do not have access to Qlik Sense. Get started with a report template, or create a fully custom automation.
 
-Creating a Qlik Reporting Service report :
+[Creating a Qlik Reporting Service report](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Reporting/Create-reporting-service-report.htm) :
 
 - The Qlik Reporting Service connector blocks let you quickly and easily build customized, multi-page reports based on app sheets. This topic shows you how to use each of the reporting blocks to build reports. By the end of this topic, you'll be able to generate single-page reports based on an app sheet, generate multi-page reports, and generate customized reports with different selections applied to different sheets.
 
 You should be familiar with Qlik Application Automation to create a Qlik Reporting Service report.
 
-Monitoring data with alerts :
+[Monitoring data with alerts](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Alerting/monitoring-changes-with-alerts.htm) :
 
 - Detect outliers and anomalies in your data quickly with alerts, without the need to open the app. You define conditions based on measures or dimensions of the data that you want to monitor. When the conditions are met, a notification with a preview of the data is sent to you.
 
-Scheduling reports with subscriptions :
+[Scheduling reports with subscriptions](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Reporting/Subscription-reports.htm) :
 
 - Subscription reports let you schedule recurring emails containing a PDF of your preferred sheets or chart. You can set your desired filters and have a PDF report with the newest data delivered to your inbox at a scheduled time. For example, you could receive overnight order information in an email every morning. You can edit subscriptions you own at any time.
 
 
-Exploring apps with conversational analytics :
+[Exploring apps with conversational analytics](https://help.qlik.com/en-US/cloud-services/Subsystems/Hub/Content/Sense_Hub/Insights/insights-chat.htm) :
 
 - Insight Advisor Chat is a chat-based interface for conversational analytics. Insight Advisor Chat lets you search for insights in any app you can access.
 
