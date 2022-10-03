@@ -1,4 +1,4 @@
-# From Client-Managed to SaaS: **Value Added Products**
+
 
 ## Introduction
 This guide is designed to help OEM partners with a Qlik Sense Client-managed deployments that are thinking or willing to move to SaaS.
